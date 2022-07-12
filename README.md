@@ -1,2 +1,2 @@
-# Chameleon
-The main repo for the Chameleon programming language.
+# Chameleon Lang
+A quick, fast way to make a simple game.
